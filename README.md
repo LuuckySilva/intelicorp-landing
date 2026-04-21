@@ -50,13 +50,15 @@ InteliCorp is a portfolio concept designed to simulate a real B2B technology com
 
 ## Preview
 
-Add a screenshot of the final published version here.
+<img width="1878" height="969" alt="image" src="https://github.com/user-attachments/assets/f1414f5e-b7d8-4059-b0d5-0221550b26db" />
+<img width="1894" height="965" alt="image" src="https://github.com/user-attachments/assets/d853f4e2-a50c-4b21-bf0a-ddf0dea46d6a" />
+<img width="1895" height="976" alt="image" src="https://github.com/user-attachments/assets/41af2c4b-5345-4e76-869c-33b9256098d4" />
 
 ## Deploy
 
-[View project online](ADD_YOUR_DEPLOY_LINK_HERE)
+https://luuckysilva.github.io/intelicorp-landing/
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
+- [LinkedIn] www.linkedin.com/in/olucas-silvaa 
 - Email: lukasantonyo@gmail.com
