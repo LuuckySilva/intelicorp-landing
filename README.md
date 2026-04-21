@@ -1,43 +1,62 @@
-# InteliCorp — Site Corporativo Inteligente (versão 1.0)
+# InteliCorp Landing Page
 
-Site corporativo demonstrando integrações e automações com IA.
+Corporate premium landing page focused on AI, automation and dashboard solutions for modern businesses.
 
-🔗 Demo: # InteliCorp — Site Corporativo Inteligente (versão 1.0)
+## About the project
 
-Site corporativo demonstrando integrações e automações com IA.
+InteliCorp is a portfolio concept designed to simulate a real B2B technology company website. The project was rebuilt to deliver a more premium enterprise feel, combining strong visual hierarchy, strategic copywriting and practical JavaScript interactions.
 
-🔗 Demo: https://luuckysilva.github.io/intelicorp-landing/
-📁 Repositório: https://github.com/LuuckySilva/intelicorp-landing
+## Technologies used
 
-## Sobre
-Este projeto é uma landing corporativa que mostra como pequenas automações e prompts podem melhorar UX e captar leads. Inclui um chatbot simulado, formulário automatizado (simulado) e seções de storytelling.
+- HTML5
+- CSS3
+- JavaScript
 
-## Tecnologias
-- HTML5 (semântico)
-- CSS3 (responsivo)
-- JavaScript (Vanilla)
-- Conceitos de Prompt Engineering (simulação)
+## Main features
 
-## Como testar localmente
-1. Clone: `git clone https://github.com/LuuckySilva/intelicorp-landing`
-2. Abra `index.html` no seu navegador (ou rode um servidor estático: `npx http-server`).
+- Premium responsive layout for desktop, tablet and mobile
+- Sticky header with mobile navigation menu
+- Animated KPI counters in the hero section
+- Interactive service and case-study presentation
+- Case tabs with dynamic content switching
+- Testimonial slider with navigation dots
+- Functional contact form with validation and user feedback
+- Floating CTA button for faster interaction
+- Scroll reveal animations for sections
+- Toast notifications for user actions
 
-## Screenshots
+## Sections included
 
-![Home Page](./assets/home.png)
-![Chatbot](./assets/chatbot.png)
+- Hero section with enterprise dashboard concept
+- Services overview
+- Highlighted case studies
+- Process timeline
+- Results and testimonials
+- Contact and diagnosis request section
 
-## Funcionalidades
-- Layout responsivo
-- Chatbot simulado (JS)
-- Formulário com simulação de envio
+## Project goals
 
-## Próximos passos
-- Integração real com API de chatbot
-- Converter para React para maior escalabilidade
-- Formulário com Google Sheets / backend
+- Build a high-value corporate website for portfolio presentation
+- Demonstrate stronger UI and visual hierarchy skills
+- Show practical JavaScript features beyond static layout work
+- Create a recruiter-friendly and client-facing portfolio piece
 
-## Autor
-Lucas Silva — Front-End & IA em evolução  
-Contato: lukasantonyo@gmail.com
+## Future improvements
 
+- Connect the contact form to Formspree or another backend service
+- Add analytics charts with live data simulation
+- Create internal pages for each service
+- Add light/dark theme switcher
+
+## Preview
+
+Add a screenshot of the final published version here.
+
+## Deploy
+
+[View project online](ADD_YOUR_DEPLOY_LINK_HERE)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
+- Email: lukasantonyo@gmail.com
